@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing, video games, and cycling
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on a video game project
-- 📫 How to reach me; send me an email at echoesfallout@gmail.com
+- 📫 How to reach me; www.echoesfallout.com
 
 <!---
 JoshuaTobar/JoshuaTobar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
